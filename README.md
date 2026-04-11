@@ -1,30 +1,43 @@
 <div align="center">
 
-# Hi there, I'm Arjun M 👋
+# Hi, I'm Arjun M 👋
 
-### Exploring AI, building ideas, and learning something new every day.
+### Student • Developer • AI Explorer
+Building small things that try to be useful, and occasionally succeed.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/a_rj_un_m)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/a.rj.un.m)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjun@builderengine.space)
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-I'm Arjun, a passionate student and hobbyist developer from Kerala, India. I love experimenting with AI, building creative web apps, and constantly exploring new technologies. My interests span across Node.js, Python, TypeScript, and artificial intelligence — always aiming to learn, create, and share meaningful projects.
+I’m Arjun, a student and hobbyist developer from Kerala, India.  
+I enjoy experimenting with AI, building creative web apps, and learning new tools that help turn ideas into working projects.
 
-<div align="center">
-  
+My main interests include:
+
+- AI-powered applications
+- Web development
+- Automation and developer tools
+- TypeScript, Python, Node.js, and modern backend stacks
+
+---
+
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark&perline=3"/> <br>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5"/> <br>
+<img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark&perline=3" /> <br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" /> <br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark&perline=4" /> <br>
+<img src="https://skillicons.dev/icons?i=supabase,mongodb,redis&theme=dark&perline=3" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark&perline=4"/> <br>
-
-<img src="https://skillicons.dev/icons?i=supabase,mongodb,redis&theme=dark&perline=3"/> <br>
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -38,24 +51,29 @@ I'm Arjun, a passionate student and hobbyist developer from Kerala, India. I lov
 
 </div>
 
-## 🎯 Current Focus
+---
 
-- 🤖 Building AI-powered applications
-- 🌱 Learning advanced prompt engineering
-- 💡 Creating meaningful open-source projects
-- 📚 Exploring new technologies daily
+## 🎯 What I'm Focused On
 
-## 📫 Let's Connect
+- Building AI-assisted tools and applications
+- Learning prompt engineering and product thinking
+- Creating useful open-source projects
+- Exploring new technologies and frameworks
 
-- 📧 Email: arjun@builderengine.space
-- 📸 Instagram: [@a_rj_un_m](https://instagram.com/a_rj_un_m)
-- 📍 Location: Kerala, India
+---
+
+## 📫 Connect With Me
+
+- Email: [arjun@builderengine.space](mailto:arjun@builderengine.space)
+- Instagram: [@a.rj.un.m](https://instagram.com/a.rj.un.m)
+- Location: Kerala, India
 
 ---
 
 <div align="center">
 
-### ⚡ Fun Fact: I believe every line of code is a step towards building something amazing!
+### ⚡ Fun Fact
+Every good project starts as a messy idea and a stubborn enough developer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Arjun-M&color=32B88D&style=flat-square)
 
