@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header"/>
 
 <div align="center">
+  
+  [![Rickroll](https://raw.githubusercontent.com/Arjun-M/Arjun-M/main/nice.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 # Hi there, I'm Arjun M 👋
 
