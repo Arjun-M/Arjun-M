@@ -83,6 +83,28 @@ A streamlined Python framework for building Telegram bots with modern async capa
 
 **Tech Stack:** `Python` `httpx`
 
+---
+
+### 🔹 SpamShield — Multilingual Spam Detection Model
+Production-ready spam detection with intelligent 6-category classification. Trained on 158.6K multilingual messages with ONNX-powered inference.
+
+**Highlights:**
+- 🛡️ Binary spam detection + 6-category classification (Phishing, Job Scams, Crypto, Adult, Giveaway, Marketing)
+- 🌍 8 languages supported (English, Spanish, Chinese, Arabic, Hindi, German, Russian, French)
+- ⚡ Ultra-lightweight inference (<15MB RAM, <5ms latency)
+- 🎯 93%+ accuracy with ONNX-powered models
+- 📊 Trained on 158.6K curated + synthetic messages
+- 🚀 Production-deployed in numerous moderation systems
+
+**Resources:**
+- 🤗 [Model on Hugging Face](https://huggingface.co/M-Arjun/SpamShield)
+- 📚 [Datasets on Hugging Face](https://huggingface.co/M-Arjun/SpamShield-Datasets)
+- 📖 [Full Documentation](https://huggingface.co/M-Arjun/SpamShield)
+
+**Tech Stack:** `Python` `Scikit-learn` `ONNX Runtime` `TF-IDF` `Logistic Regression`
+
+---
+
 <br/>
 
 ## 📈 GitHub Stats
